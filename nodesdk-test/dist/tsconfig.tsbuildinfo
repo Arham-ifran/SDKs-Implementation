@@ -1,0 +1,125 @@
+{
+  "program": {
+    "fileInfos": {
+      "../../../../../../usr/share/nodejs/typescript/lib/lib.es5.d.ts": {
+        "version": "7c1b028965a993eef7d465ac1fd75e35cb558372031dea10b5366038f640a182",
+        "signature": "7c1b028965a993eef7d465ac1fd75e35cb558372031dea10b5366038f640a182"
+      },
+      "../../../../../../usr/share/nodejs/typescript/lib/lib.es2015.d.ts": {
+        "version": "44b592f91ebaf4ea12b19daa9daf51a54601c03cd3acd5dd301592d01a8aa88d",
+        "signature": "44b592f91ebaf4ea12b19daa9daf51a54601c03cd3acd5dd301592d01a8aa88d"
+      },
+      "../../../../../../usr/share/nodejs/typescript/lib/lib.es2016.d.ts": {
+        "version": "a076876bf7bacf01d3eff29b20d56c616e61e49c92b4379e0867d64d4050ecff",
+        "signature": "a076876bf7bacf01d3eff29b20d56c616e61e49c92b4379e0867d64d4050ecff"
+      },
+      "../../../../../../usr/share/nodejs/typescript/lib/lib.dom.d.ts": {
+        "version": "e2a6b996a0ecae268e90e0a15d8cbf6ba57cb14d72d5462b3bad4fd7ff000567",
+        "signature": "e2a6b996a0ecae268e90e0a15d8cbf6ba57cb14d72d5462b3bad4fd7ff000567"
+      },
+      "../../../../../../usr/share/nodejs/typescript/lib/lib.es2015.core.d.ts": {
+        "version": "4624517d08f6dd53903549b060c314a065e04222509096c38063b327df3ea951",
+        "signature": "4624517d08f6dd53903549b060c314a065e04222509096c38063b327df3ea951"
+      },
+      "../../../../../../usr/share/nodejs/typescript/lib/lib.es2015.collection.d.ts": {
+        "version": "516bd54254229463b14e9bcd065bb3813589e1ef91f150a202a503da31b38d30",
+        "signature": "516bd54254229463b14e9bcd065bb3813589e1ef91f150a202a503da31b38d30"
+      },
+      "../../../../../../usr/share/nodejs/typescript/lib/lib.es2015.generator.d.ts": {
+        "version": "ecbc907a9b42436dab7896613e548e0d1c76e6c7e07228418294832baa703462",
+        "signature": "ecbc907a9b42436dab7896613e548e0d1c76e6c7e07228418294832baa703462"
+      },
+      "../../../../../../usr/share/nodejs/typescript/lib/lib.es2015.iterable.d.ts": {
+        "version": "1c522d50cfcacbf6f0fc475ffec52f608b509448b6b8ccb57b94479b195fe55d",
+        "signature": "1c522d50cfcacbf6f0fc475ffec52f608b509448b6b8ccb57b94479b195fe55d"
+      },
+      "../../../../../../usr/share/nodejs/typescript/lib/lib.es2015.promise.d.ts": {
+        "version": "effe615f7edfd363f6d142ea23cf1f65cec9aae4f06cbf16872cac64d3990b8f",
+        "signature": "effe615f7edfd363f6d142ea23cf1f65cec9aae4f06cbf16872cac64d3990b8f"
+      },
+      "../../../../../../usr/share/nodejs/typescript/lib/lib.es2015.proxy.d.ts": {
+        "version": "0ca606647cf7aa4e365d69763d097e725d958480079014f7cb30a9d5244e283a",
+        "signature": "0ca606647cf7aa4e365d69763d097e725d958480079014f7cb30a9d5244e283a"
+      },
+      "../../../../../../usr/share/nodejs/typescript/lib/lib.es2015.reflect.d.ts": {
+        "version": "b4a3b009b8256079fcc352de3ddfb5ed770b6046938d111cc2842d729777ecbb",
+        "signature": "b4a3b009b8256079fcc352de3ddfb5ed770b6046938d111cc2842d729777ecbb"
+      },
+      "../../../../../../usr/share/nodejs/typescript/lib/lib.es2015.symbol.d.ts": {
+        "version": "e55cd239bc1dc69de5791ae2c45ea0d70a57a361017a4c6e342ba42bdd0ef4bd",
+        "signature": "e55cd239bc1dc69de5791ae2c45ea0d70a57a361017a4c6e342ba42bdd0ef4bd"
+      },
+      "../../../../../../usr/share/nodejs/typescript/lib/lib.es2015.symbol.wellknown.d.ts": {
+        "version": "81e24ff087a1aa21fc93d465b746fe9c58185a67537502fd90bf388dc85a3a6c",
+        "signature": "81e24ff087a1aa21fc93d465b746fe9c58185a67537502fd90bf388dc85a3a6c"
+      },
+      "../../../../../../usr/share/nodejs/typescript/lib/lib.es2016.array.include.d.ts": {
+        "version": "bb64bbc331b368e6d6a6ccb3bf8b031add880795d09aac8513b6baf6c559bc5a",
+        "signature": "bb64bbc331b368e6d6a6ccb3bf8b031add880795d09aac8513b6baf6c559bc5a"
+      },
+      "../../NODEJS-SDK/dist/messages/index.d.ts": {
+        "version": "0ca7fad266eecc5e10cc1d48826a7b9fdd508ef165ba2696d9ed178c0ffa9ad4",
+        "signature": "0ca7fad266eecc5e10cc1d48826a7b9fdd508ef165ba2696d9ed178c0ffa9ad4"
+      },
+      "../../NODEJS-SDK/dist/index.d.ts": {
+        "version": "4965dc62eee54ae9f5f187d20c33ed7d320c9ed6c279cb8f949022dfed551ce0",
+        "signature": "4965dc62eee54ae9f5f187d20c33ed7d320c9ed6c279cb8f949022dfed551ce0"
+      },
+      "../src/app.ts": {
+        "version": "2bf85964bea50043580a486307cf9bf46f47d6a97dde2247236e88f83b540ca7",
+        "signature": "8e609bb71c20b858c77f0e9f90bb1319db8477b13f9f965f1a1e18524bf50881"
+      }
+    },
+    "options": {
+      "module": 1,
+      "declaration": true,
+      "removeComments": true,
+      "allowSyntheticDefaultImports": true,
+      "esModuleInterop": true,
+      "sourceMap": false,
+      "outDir": "./",
+      "baseUrl": "..",
+      "incremental": true,
+      "lib": [
+        "lib.es2016.d.ts",
+        "lib.dom.d.ts"
+      ],
+      "experimentalDecorators": true,
+      "target": 2,
+      "configFilePath": "../tsconfig.json"
+    },
+    "referencedMap": {
+      "../../NODEJS-SDK/dist/index.d.ts": [
+        "../../NODEJS-SDK/dist/messages/index.d.ts"
+      ],
+      "../src/app.ts": [
+        "../../NODEJS-SDK/dist/index.d.ts"
+      ]
+    },
+    "exportedModulesMap": {
+      "../../NODEJS-SDK/dist/index.d.ts": [
+        "../../NODEJS-SDK/dist/messages/index.d.ts"
+      ]
+    },
+    "semanticDiagnosticsPerFile": [
+      "../../NODEJS-SDK/dist/messages/index.d.ts",
+      "../../NODEJS-SDK/dist/index.d.ts",
+      "../src/app.ts",
+      "../../../../../../usr/share/nodejs/typescript/lib/lib.es2015.d.ts",
+      "../../../../../../usr/share/nodejs/typescript/lib/lib.es2016.d.ts",
+      "../../../../../../usr/share/nodejs/typescript/lib/lib.es5.d.ts",
+      "../../../../../../usr/share/nodejs/typescript/lib/lib.dom.d.ts",
+      "../../../../../../usr/share/nodejs/typescript/lib/lib.es2015.core.d.ts",
+      "../../../../../../usr/share/nodejs/typescript/lib/lib.es2015.collection.d.ts",
+      "../../../../../../usr/share/nodejs/typescript/lib/lib.es2015.generator.d.ts",
+      "../../../../../../usr/share/nodejs/typescript/lib/lib.es2015.iterable.d.ts",
+      "../../../../../../usr/share/nodejs/typescript/lib/lib.es2015.promise.d.ts",
+      "../../../../../../usr/share/nodejs/typescript/lib/lib.es2015.proxy.d.ts",
+      "../../../../../../usr/share/nodejs/typescript/lib/lib.es2015.reflect.d.ts",
+      "../../../../../../usr/share/nodejs/typescript/lib/lib.es2015.symbol.d.ts",
+      "../../../../../../usr/share/nodejs/typescript/lib/lib.es2015.symbol.wellknown.d.ts",
+      "../../../../../../usr/share/nodejs/typescript/lib/lib.es2016.array.include.d.ts"
+    ]
+  },
+  "version": "3.8.3"
+}
